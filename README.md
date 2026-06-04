@@ -34,7 +34,7 @@ class Prasanna:
         ]
 
         self.fun_fact = (
-            "I count species by sequencing — not by sight 🍄"
+            "I count species by sequencing - not by sight 🍄"
         )
 
     def motto(self):
