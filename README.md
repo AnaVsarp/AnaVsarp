@@ -138,8 +138,8 @@ print(me.motto())
 |:--:|:--|
 | 🦋 | **Research Intern** · Gabriela Montejo-Kovacevich Lab, Uppsala University |
 | 📍 | Uppsala, Sweden |
-| 🧬 | Working on structural variant calling in *Euphydryas editha* (Bay checkerspot butterfly) using long-read sequencing data |
-| 🛠️ | `Sniffles2` `PBSV` `Long-read SV calling` `Local PCA` `Structural Variant Benchmarking` |
+| 🧬 | Working on structural variant calling in *Euphydryas editha* (Bay checkerspot butterfly) using short-read sequencing data |
+| 🛠️ | `PCAngsd` `Lostruct` `Long-read SV calling` `Local PCA` `Structural Variant Benchmarking` |
 
 </div>
 
@@ -151,10 +151,10 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**Post-GWAS Fine Mapping — Laying Hens**](https://github.com/AnaVsarp) | FreeBayes · R · Linux · Nextflow | Identified high-confidence variants via whole-genome variant calling; integrated sequencing + statistical genetics to refine trait-associated genomic regions (Feb–Apr 2025) |
+| [**Post-GWAS Fine Mapping - Laying Hens**] | FreeBayes · R · Linux · Nextflow | Identified high-confidence variants via whole-genome variant calling; integrated sequencing + statistical genetics to refine trait-associated genomic regions (Feb–Apr 2025) |
 | [**GWAS of Comb Mass in Laying Hens**](https://github.com/AnaVsarp/GWAS_Chicken_Comb) | R · Linear Mixed Models · GWAS | Uncovered significant genomic regions associated with comb mass from large-scale genotype–phenotype datasets; produced fully reproducible R documentation (Feb–Aug 2024) |
-| [**Fungal Species Diversity — Amplicon Seq**](https://github.com/BiodiversityLab/how_many_species) | nf-core Ampliseq · DADA2 · R | Characterized fungal community composition via ASV-based analysis; developed reproducible diversity & abundance workflows (Oct 2023–Jan 2024) |
-| [**Bacterioplankton Metagenomics — Gulf of Mexico**](https://github.com/AnaVsarp/Genome-Analysis) | MetaGenomics · HTSeq · Phylogenetics | Reconstructed microbial genomes via assembly & binning; quantified gene expression and classified microbial diversity using phylogenetic analysis (Mar–Jun 2023) |
+| [**Fungal Species Diversity - Amplicon Seq**](https://github.com/BiodiversityLab/how_many_species) | nf-core Ampliseq · DADA2 · R | Characterized fungal community composition via ASV-based analysis; developed reproducible diversity & abundance workflows (Oct 2023–Jan 2024) |
+| [**Bacterioplankton Metagenomics - Gulf of Mexico**](https://github.com/AnaVsarp/Genome-Analysis) | MetaGenomics · HTSeq · Phylogenetics | Reconstructed microbial genomes via assembly & binning; quantified gene expression and classified microbial diversity using phylogenetic analysis (Mar–Jun 2023) |
 
 </div>
 
@@ -164,7 +164,7 @@ print(me.motto())
 
 | Degree | Institution | Period | Score |
 |:-------|:------------|:------:|:-----:|
-| 🧬 MS in Bioinformatics | Uppsala University, Sweden | Aug 2022 – Apr 2025 | — |
+| 🧬 MS in Bioinformatics | Uppsala University, Sweden | Aug 2022 – Apr 2025 | - |
 | 🔬 B.Tech in Biotechnology | SASTRA University, India | Jul 2016 – Jul 2020 | 7.35 / 10 |
 
 </div>
