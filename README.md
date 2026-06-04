@@ -164,9 +164,10 @@ print(me.motto())
 
 </div>
 
+/
 ---
 
-## 🎖️ Achievements
+/ ## 🎖️ Achievements
 
 <div align="center">
 
@@ -181,6 +182,7 @@ print(me.motto())
 </div>
 
 ---
+
 
 ## 🎓 Education
 
