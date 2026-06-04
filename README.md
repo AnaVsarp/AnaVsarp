@@ -27,9 +27,9 @@ class Prasanna:
             "FreeBayes", "HTSeq", "GWAS"
         ]
 
-        self.currently_learning = [
+        self.currently_working = [
             "Advanced statistical genetics",
-            "Metagenomics & MAG assembly",
+            "Population genetics",
             "Workflow automation with Snakemake",
         ]
 
@@ -100,7 +100,7 @@ print(me.motto())
 ## 💼 Work Experience
 
 <details>
-<summary><strong>🏭 Sanofi Healthcare India Pvt. Ltd.</strong> - QC Analyst &nbsp;|&nbsp; Feb 2022 – Jun 2022 &nbsp;|&nbsp; Hyderabad, India</summary>
+<summary><strong>🏭 Sanofi Healthcare India Pvt. Ltd.</strong> - QC Analyst &nbsp;|&nbsp; Feb 2022 - Jun 2022 &nbsp;|&nbsp; Hyderabad, India</summary>
 
 <br/>
 
@@ -114,7 +114,7 @@ print(me.motto())
 </details>
 
 <details>
-<summary><strong>🔬 Prodorb Pvt. Ltd.</strong> - Associate Production Specialist &nbsp;|&nbsp; Apr 2021 – Oct 2021 &nbsp;|&nbsp; Hyderabad, India</summary>
+<summary><strong>🔬 Prodorb Pvt. Ltd.</strong> - Associate Production Specialist &nbsp;|&nbsp; Apr 2021 - Oct 2021 &nbsp;|&nbsp; Hyderabad, India</summary>
 
 <br/>
 
@@ -151,7 +151,7 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**Post-GWAS Fine Mapping - Laying Hens**] | FreeBayes · R · Linux · Nextflow | Identified high-confidence variants via whole-genome variant calling; integrated sequencing + statistical genetics to refine trait-associated genomic regions (Feb-Apr 2025) |
+| [**Post-GWAS Fine Mapping - Laying Hens**] | FreeBayes · R · Linux | Identified high-confidence variants via whole-genome variant calling; integrated sequencing + statistical genetics to refine trait-associated genomic regions (Feb-Apr 2025) |
 | [**GWAS of Comb Mass in Laying Hens**](https://github.com/AnaVsarp/GWAS_Chicken_Comb) | R · Linear Mixed Models · GWAS | Uncovered significant genomic regions associated with comb mass from large-scale genotype–phenotype datasets; produced fully reproducible R documentation (Feb-Aug 2024) |
 | [**Fungal Species Diversity - Amplicon Seq**](https://github.com/BiodiversityLab/how_many_species) | nf-core Ampliseq · DADA2 · R | Characterized fungal community composition via ASV-based analysis; developed reproducible diversity & abundance workflows (Oct 2023-Jan 2024) |
 | [**Bacterioplankton Metagenomics - Gulf of Mexico**](https://github.com/AnaVsarp/Genome-Analysis) | MetaGenomics · HTSeq · Phylogenetics | Reconstructed microbial genomes via assembly & binning; quantified gene expression and classified microbial diversity using phylogenetic analysis (Mar-Jun 2023) |
