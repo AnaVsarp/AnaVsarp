@@ -164,26 +164,6 @@ print(me.motto())
 
 </div>
 
-/
----
-
-/ ## 🎖️ Achievements
-
-<div align="center">
-
-| 🏅 | Achievement | Details |
-|:--:|:------------|:--------|
-| 🧬 | **Graduate Research — Quantitative Genetics** | Supervised by Dr. Martin Johnsson, SLU — Linear mixed-model GWAS on commercial laying hen datasets |
-| 🍄 | **Biodiversity Lab Collaboration** | Contributed to multi-institutional fungal biodiversity project using nf-core Ampliseq pipeline |
-| 🔭 | **Gulf of Mexico Metagenomics** | Complete metagenomic workflow: assembly → binning → functional annotation → transcriptomics (HTSeq) |
-| 💉 | **15% Test Reliability Improvement** | Achieved via validated electrophoresis & analytical assay protocols at Sanofi Healthcare |
-| ⚙️ | **5000L Bioreactor Operation** | Industrial-scale microbial production at Prodorb Pvt. Ltd. |
-
-</div>
-
----
-
-
 ## 🎓 Education
 
 <div align="center">
