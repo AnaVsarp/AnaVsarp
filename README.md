@@ -160,9 +160,9 @@ print(me.motto())
 ```
 🧱 Population Genomics     → Local adaptation · Structural Variant analysis · Variant calling 
 🧱 Statistical Genetics    → Fine mapping · Bayesian colocalization · LD analysis
-🧱 Workflow Orchestration  → Snakemake · advanced Nextflow DSL2 · container best practices
+🧱 Workflow Orchestration  → Snakemake · Nextflow
 🧱 Metagenomics            → Long-read MAG assembly · viral metagenomics · taxonomy profiling
-🧱 Reproducibility         → Conda envs · Docker/Singularity · FAIR data principles
+🧱 Reproducibility         → Conda envs · Git · Github · FAIR data principles
 ```
 
 ---
