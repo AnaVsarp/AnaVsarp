@@ -158,6 +158,7 @@ print(me.motto())
 ## 🌱 Current work areas
 
 ```
+🧱 Population Genomics     → Local adaptation · Structural Variant analysis · Variant calling 
 🧱 Statistical Genetics    → Fine mapping · Bayesian colocalization · LD analysis
 🧱 Workflow Orchestration  → Snakemake · advanced Nextflow DSL2 · container best practices
 🧱 Metagenomics            → Long-read MAG assembly · viral metagenomics · taxonomy profiling
