@@ -98,7 +98,7 @@ print(me.motto())
 </details>
 
 <details>
-<summary><strong>🔬 Prodorb Pvt. Ltd.</strong> - Associate Production Specialist &nbsp;|&nbsp; Apr 2021 - Oct 2021 &nbsp;|&nbsp; Hyderabad, India</summary>
+<summary><strong>🔬 Prodorb Pvt. Ltd.</strong> - Associate Production Specialist &nbsp;|&nbsp; Apr 2021 - Jan 2022 &nbsp;|&nbsp; Hyderabad, India</summary>
 
 <br/>
 
