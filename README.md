@@ -29,7 +29,7 @@ class Prasanna:
 
         self.currently_working = [
             "Local Adaptation",
-            "SV variant calling"
+            "SV variant calling",
             "Population genetics",
             "Workflow automation with Snakemake",
         ]
