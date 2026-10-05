@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prasanna%20Venkataramanan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Bioinformatician%20%7C%20Genomics%20%7C%20Computational%20Biology&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prasanna%20Venkataramanan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Bioinformatician%20%7C%20Population%20Genomics&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
